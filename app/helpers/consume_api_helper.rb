@@ -1,0 +1,2 @@
+module ConsumeApiHelper
+end
